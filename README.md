@@ -14,7 +14,7 @@
 'password' => '',
 'database' => 'secure-app',
 ```
-
-3. Ejecutar comando **bin/cake server**
+3. Ejecutar comando **bin/cake migrations migrate**
+4. Ejecutar comando **bin/cake server**
 
 Autor: Raul P. Alvarez - [YouTube - WannaCode](https://www.youtube.com/c/WannaCode)
