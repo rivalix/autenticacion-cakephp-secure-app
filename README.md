@@ -1,7 +1,7 @@
 # Autenticacion y Autorizacion en CakePHP 4
 
 
-[CakePHP](https://cakephp.org) 4.x.
+[CakePHP](https://cakephp.org) 4.x. y PHP 7.3.3
 
 
 ## Instalacion
